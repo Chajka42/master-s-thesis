@@ -1,0 +1,224 @@
+Imulse case №1;
+U podzhig: Peak U -> 2407.85; Time peak -> 151 ; Start pulse -> 86; End pulse -> 189; Time of front = 65 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.28912 [V]; Peak U -> 3.9449987; Time peak -> 312 ; Start pulse -> 213; End pulse -> 421; Pulse stable; INTreal = 0.00178373A/c; INTsmooth = 0.011236232 A/c; 
+U target: INTall = 72.15986A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №2;
+U podzhig: Peak U -> 2231.07; Time peak -> 153 ; Start pulse -> 96; End pulse -> 267; Time of front = 57 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.43818 [V]; Peak U -> 5.00331; Time peak -> 296 ; Start pulse -> 211; End pulse -> 406; Pulse stable; INTreal = 0.0019039586A/c; INTsmooth = 0.012578073 A/c; 
+U target: INTall = 32.273857A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №3;
+U podzhig: Peak U -> 2407.85; Time peak -> 155 ; Start pulse -> 91; End pulse -> 188; Time of front = 64 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.43818 [V]; Peak U -> 5.025703; Time peak -> 295 ; Start pulse -> 213; End pulse -> 405; Pulse stable; INTreal = 0.0019241543A/c; INTsmooth = 0.0123323575 A/c; 
+U target: INTall = 26.938984A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №4;
+U podzhig: Peak U -> 2496.24; Time peak -> 157 ; Start pulse -> 83; End pulse -> 192; Time of front = 74 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.34979 [V]; Peak U -> 4.8748507; Time peak -> 298 ; Start pulse -> 214; End pulse -> 408; Pulse stable; INTreal = 0.00190823A/c; INTsmooth = 0.012280896 A/c; 
+U target: INTall = 32.10021A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №5;
+U podzhig: Peak U -> 2231.07; Time peak -> 154 ; Start pulse -> 99; End pulse -> 186; Time of front = 55 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.08463 [V]; Peak U -> 4.75582; Time peak -> 302 ; Start pulse -> 217; End pulse -> 410; Pulse stable; INTreal = 0.0018597892A/c; INTsmooth = 0.01174288 A/c; 
+U target: INTall = 21.13052A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №6;
+U podzhig: Peak U -> 2231.07; Time peak -> 155 ; Start pulse -> 91; End pulse -> 189; Time of front = 64 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.43818 [V]; Peak U -> 4.8159246; Time peak -> 305 ; Start pulse -> 211; End pulse -> 410; Pulse unstable in -> 270; INTreal = 0.0018906209A/c; INTsmooth = 0.012513512 A/c; 
+U target: INTall = 8.551059A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №7;
+U podzhig: Peak U -> 2319.46; Time peak -> 157 ; Start pulse -> 102; End pulse -> 184; Time of front = 55 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.26141 [V]; Peak U -> 4.8394957; Time peak -> 302 ; Start pulse -> 209; End pulse -> 411; Pulse stable; INTreal = 0.0073511545A/c; INTsmooth = 0.016622115 A/c; 
+U target: INTall = 698.4448A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №8;
+U podzhig: Peak U -> 2407.85; Time peak -> 159 ; Start pulse -> 90; End pulse -> 190; Time of front = 69 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.73107 [V]; Peak U -> 4.0923114; Time peak -> 323 ; Start pulse -> 219; End pulse -> 426; Pulse unstable in -> 290; INTreal = 0.001825186A/c; INTsmooth = 0.011469779 A/c; 
+U target: INTall = 183.62332A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №9;
+U podzhig: Peak U -> 2496.24; Time peak -> 157 ; Start pulse -> 87; End pulse -> 313; Time of front = 70 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.26141 [V]; Peak U -> 4.8866367; Time peak -> 298 ; Start pulse -> 213; End pulse -> 407; Pulse stable; INTreal = 0.0018387216A/c; INTsmooth = 0.012163683 A/c; 
+U target: INTall = 14.106836A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №10;
+U podzhig: Peak U -> 2319.46; Time peak -> 156 ; Start pulse -> 88; End pulse -> 189; Time of front = 68 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.34979 [V]; Peak U -> 4.933778; Time peak -> 299 ; Start pulse -> 207; End pulse -> 406; Pulse stable; INTreal = 0.0018972977A/c; INTsmooth = 0.01273605 A/c; 
+U target: INTall = 20.215107A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №11;
+U podzhig: Peak U -> 2319.46; Time peak -> 158 ; Start pulse -> 88; End pulse -> 318; Time of front = 70 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.99624 [V]; Peak U -> 4.6238256; Time peak -> 303 ; Start pulse -> 218; End pulse -> 416; Pulse stable; INTreal = 0.0018359266A/c; INTsmooth = 0.011812185 A/c; 
+U target: INTall = 10.792261A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №12;
+U podzhig: Peak U -> 2231.07; Time peak -> 156 ; Start pulse -> 99; End pulse -> 190; Time of front = 57 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.26141 [V]; Peak U -> 4.904315; Time peak -> 299 ; Start pulse -> 214; End pulse -> 408; Pulse stable; INTreal = 0.0018755703A/c; INTsmooth = 0.012219393 A/c; 
+U target: INTall = 18.889254A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №13;
+U podzhig: Peak U -> 2496.24; Time peak -> 154 ; Start pulse -> 93; End pulse -> 313; Time of front = 61 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.17302 [V]; Peak U -> 4.841851; Time peak -> 297 ; Start pulse -> 209; End pulse -> 407; Pulse stable; INTreal = 0.0074454406A/c; INTsmooth = 0.016601471 A/c; 
+U target: INTall = 663.10486A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №14;
+U podzhig: Peak U -> 2231.07; Time peak -> 153 ; Start pulse -> 98; End pulse -> 183; Time of front = 55 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.17302 [V]; Peak U -> 4.811211; Time peak -> 303 ; Start pulse -> 214; End pulse -> 410; Pulse stable; INTreal = 0.0074876933A/c; INTsmooth = 0.016463887 A/c; 
+U target: INTall = 664.4954A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №15;
+U podzhig: Peak U -> 2142.68; Time peak -> 154 ; Start pulse -> 98; End pulse -> 310; Time of front = 56 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.26141 [V]; Peak U -> 4.7947116; Time peak -> 299 ; Start pulse -> 215; End pulse -> 410; Pulse stable; INTreal = 0.007547129A/c; INTsmooth = 0.01660706 A/c; 
+U target: INTall = 636.6361A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №16;
+U podzhig: Peak U -> 2142.68; Time peak -> 150 ; Start pulse -> 101; End pulse -> 308; Time of front = 49 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.34979 [V]; Peak U -> 4.8583517; Time peak -> 299 ; Start pulse -> 213; End pulse -> 408; Pulse stable; INTreal = 0.0076580346A/c; INTsmooth = 0.016706126 A/c; 
+U target: INTall = 400.13028A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №17;
+U podzhig: Peak U -> 2142.68; Time peak -> 157 ; Start pulse -> 93; End pulse -> 191; Time of front = 64 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.26141 [V]; Peak U -> 4.8772078; Time peak -> 303 ; Start pulse -> 215; End pulse -> 413; Pulse stable; INTreal = 0.0076589393A/c; INTsmooth = 0.017737065 A/c; 
+U target: INTall = 602.6056A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №18;
+U podzhig: Peak U -> 2142.68; Time peak -> 155 ; Start pulse -> 115; End pulse -> 249; Time of front = 40 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.26141 [V]; Peak U -> 4.8795652; Time peak -> 300 ; Start pulse -> 213; End pulse -> 410; Pulse stable; INTreal = 0.0054202233A/c; INTsmooth = 0.016197667 A/c; 
+U target: INTall = 935.73883A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №19;
+U podzhig: Peak U -> 2231.07; Time peak -> 155 ; Start pulse -> 93; End pulse -> 192; Time of front = 62 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.26141 [V]; Peak U -> 4.846567; Time peak -> 302 ; Start pulse -> 208; End pulse -> 408; Pulse stable; INTreal = 0.0018546403A/c; INTsmooth = 0.012550065 A/c; 
+U target: INTall = 21.998592A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №20;
+U podzhig: Peak U -> 2231.07; Time peak -> 155 ; Start pulse -> 82; End pulse -> 188; Time of front = 73 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.52657 [V]; Peak U -> 5.006847; Time peak -> 295 ; Start pulse -> 214; End pulse -> 406; Pulse stable; INTreal = 0.007904218A/c; INTsmooth = 0.016859105 A/c; 
+U target: INTall = 592.741A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №21;
+U podzhig: Peak U -> 2054.29; Time peak -> 151 ; Start pulse -> 93; End pulse -> 186; Time of front = 58 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.99624 [V]; Peak U -> 4.4446898; Time peak -> 313 ; Start pulse -> 210; End pulse -> 418; Pulse unstable in -> 273; INTreal = 0.0069237575A/c; INTsmooth = 0.01530842 A/c; 
+U target: INTall = 454.5066A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №22;
+U podzhig: Peak U -> 2142.68; Time peak -> 154 ; Start pulse -> 104; End pulse -> 305; Time of front = 50 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.24718 [V]; Peak U -> 4.885369; Time peak -> 301 ; Start pulse -> 210; End pulse -> 410; Pulse stable; INTreal = 0.0018134646A/c; INTsmooth = 0.0124888355 A/c; 
+U target: INTall = 14.174553A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №23;
+U podzhig: Peak U -> 1965.9; Time peak -> 153 ; Start pulse -> 106; End pulse -> 222; Time of front = 47 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.89362 [V]; Peak U -> 4.228935; Time peak -> 330 ; Start pulse -> 210; End pulse -> 443; Pulse unstable in -> 282; INTreal = 0.006568456A/c; INTsmooth = 0.01721075 A/c; 
+U target: INTall = 573.7098A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №24;
+U podzhig: Peak U -> 2054.29; Time peak -> 156 ; Start pulse -> 102; End pulse -> 223; Time of front = 54 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.80523 [V]; Peak U -> 4.1264024; Time peak -> 328 ; Start pulse -> 210; End pulse -> 438; Pulse unstable in -> 280; INTreal = 0.0017678299A/c; INTsmooth = 0.011992945 A/c; 
+U target: INTall = 74.578995A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №25;
+U podzhig: Peak U -> 1877.51; Time peak -> 154 ; Start pulse -> 103; End pulse -> 245; Time of front = 51 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.89362 [V]; Peak U -> 4.406893; Time peak -> 318 ; Start pulse -> 210; End pulse -> 422; Pulse stable; INTreal = 0.0018254957A/c; INTsmooth = 0.012330308 A/c; 
+U target: INTall = 32.436596A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №26;
+U podzhig: Peak U -> 2054.29; Time peak -> 156 ; Start pulse -> 109; End pulse -> 184; Time of front = 47 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.15879 [V]; Peak U -> 4.755734; Time peak -> 302 ; Start pulse -> 214; End pulse -> 412; Pulse stable; INTreal = 0.0018351864A/c; INTsmooth = 0.011984871 A/c; 
+U target: INTall = 21.514086A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №27;
+U podzhig: Peak U -> 2142.68; Time peak -> 157 ; Start pulse -> 104; End pulse -> 190; Time of front = 53 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.804054; Time peak -> 305 ; Start pulse -> 221; End pulse -> 414; Pulse stable; INTreal = 0.0073814923A/c; INTsmooth = 0.01691181 A/c; 
+U target: INTall = 556.56726A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №28;
+U podzhig: Peak U -> 1965.9; Time peak -> 154 ; Start pulse -> 105; End pulse -> 222; Time of front = 49 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.89362 [V]; Peak U -> 4.162937; Time peak -> 321 ; Start pulse -> 215; End pulse -> 432; Pulse unstable in -> 285; INTreal = 0.0064645763A/c; INTsmooth = 0.015906299 A/c; 
+U target: INTall = 497.69467A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №29;
+U podzhig: Peak U -> 2054.29; Time peak -> 155 ; Start pulse -> 109; End pulse -> 187; Time of front = 46 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.8099456; Time peak -> 301 ; Start pulse -> 217; End pulse -> 412; Pulse stable; INTreal = 0.0073134517A/c; INTsmooth = 0.016772361 A/c; 
+U target: INTall = 458.66168A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №30;
+U podzhig: Peak U -> 1965.9; Time peak -> 155 ; Start pulse -> 100; End pulse -> 189; Time of front = 55 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.45168 [V]; Peak U -> 3.745741; Time peak -> 335 ; Start pulse -> 212; End pulse -> 441; Pulse unstable in -> 216; INTreal = 0.0017386146A/c; INTsmooth = 0.011316257 A/c; 
+U target: INTall = 191.70883A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №31;
+U podzhig: Peak U -> 1965.9; Time peak -> 156 ; Start pulse -> 89; End pulse -> 313; Time of front = 67 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.0704 [V]; Peak U -> 4.5813146; Time peak -> 313 ; Start pulse -> 213; End pulse -> 422; Pulse stable; INTreal = 0.0071399673A/c; INTsmooth = 0.01726949 A/c; 
+U target: INTall = 408.864A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №32;
+U podzhig: Peak U -> 1965.9; Time peak -> 154 ; Start pulse -> 95; End pulse -> 309; Time of front = 59 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.707416; Time peak -> 305 ; Start pulse -> 223; End pulse -> 414; Pulse stable; INTreal = 0.007355472A/c; INTsmooth = 0.015958788 A/c; 
+U target: INTall = 396.85263A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №33;
+U podzhig: Peak U -> 1612.35; Time peak -> 157 ; Start pulse -> 108; End pulse -> 190; Time of front = 49 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.89362 [V]; Peak U -> 4.2501483; Time peak -> 345 ; Start pulse -> 208; End pulse -> 453; Pulse unstable in -> 282; INTreal = 0.006591134A/c; INTsmooth = 0.017458731 A/c; 
+U target: INTall = 492.95963A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №34;
+U podzhig: Peak U -> 1789.12; Time peak -> 152 ; Start pulse -> 103; End pulse -> 189; Time of front = 49 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.769877; Time peak -> 304 ; Start pulse -> 211; End pulse -> 414; Pulse stable; INTreal = 0.0073504187A/c; INTsmooth = 0.017418033 A/c; 
+U target: INTall = 663.7881A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №35;
+U podzhig: Peak U -> 1877.51; Time peak -> 155 ; Start pulse -> 114; End pulse -> 188; Time of front = 41 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.62845 [V]; Peak U -> 3.3391507; Time peak -> 332 ; Start pulse -> 212; End pulse -> 436; Pulse unstable in -> 228; INTreal = 0.005321307A/c; INTsmooth = 0.013897814 A/c; 
+U target: INTall = 803.6632A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №36;
+U podzhig: Peak U -> 1877.51; Time peak -> 152 ; Start pulse -> 111; End pulse -> 188; Time of front = 41 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.80523 [V]; Peak U -> 4.2265778; Time peak -> 342 ; Start pulse -> 210; End pulse -> 444; Pulse unstable in -> 276; INTreal = 0.0017668223A/c; INTsmooth = 0.0121834 A/c; 
+U target: INTall = 37.13977A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №37;
+U podzhig: Peak U -> 1789.12; Time peak -> 155 ; Start pulse -> 98; End pulse -> 189; Time of front = 57 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.24718 [V]; Peak U -> 4.5329957; Time peak -> 319 ; Start pulse -> 209; End pulse -> 429; Pulse unstable in -> 280; INTreal = 0.0017917771A/c; INTsmooth = 0.012620547 A/c; 
+U target: INTall = 18.104761A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №38;
+U podzhig: Peak U -> 2142.68; Time peak -> 157 ; Start pulse -> 110; End pulse -> 311; Time of front = 47 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.7569127; Time peak -> 307 ; Start pulse -> 209; End pulse -> 416; Pulse stable; INTreal = 0.0072877468A/c; INTsmooth = 0.016929517 A/c; 
+U target: INTall = 374.7706A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №39;
+U podzhig: Peak U -> 1965.9; Time peak -> 154 ; Start pulse -> 109; End pulse -> 189; Time of front = 45 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.24718 [V]; Peak U -> 4.798161; Time peak -> 306 ; Start pulse -> 213; End pulse -> 416; Pulse stable; INTreal = 0.00730376A/c; INTsmooth = 0.01756612 A/c; 
+U target: INTall = 505.69745A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №40;
+U podzhig: Peak U -> 1877.51; Time peak -> 155 ; Start pulse -> 93; End pulse -> 189; Time of front = 62 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.851194; Time peak -> 303 ; Start pulse -> 216; End pulse -> 411; Pulse stable; INTreal = 0.0075474936A/c; INTsmooth = 0.016434534 A/c; 
+U target: INTall = 611.25836A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №41;
+U podzhig: Peak U -> 1789.12; Time peak -> 150 ; Start pulse -> 105; End pulse -> 186; Time of front = 45 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.24718 [V]; Peak U -> 4.8782997; Time peak -> 300 ; Start pulse -> 214; End pulse -> 408; Pulse stable; INTreal = 0.0018399653A/c; INTsmooth = 0.012085016 A/c; 
+U target: INTall = 24.276304A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №42;
+U podzhig: Peak U -> 1965.9; Time peak -> 152 ; Start pulse -> 106; End pulse -> 307; Time of front = 46 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.89362 [V]; Peak U -> 4.2913976; Time peak -> 319 ; Start pulse -> 208; End pulse -> 427; Pulse unstable in -> 285; INTreal = 0.0017291727A/c; INTsmooth = 0.012066864 A/c; 
+U target: INTall = 24.22894A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №43;
+U podzhig: Peak U -> 2054.29; Time peak -> 155 ; Start pulse -> 97; End pulse -> 317; Time of front = 58 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.98201 [V]; Peak U -> 4.351502; Time peak -> 321 ; Start pulse -> 213; End pulse -> 428; Pulse unstable in -> 282; INTreal = 0.0017588129A/c; INTsmooth = 0.011953405 A/c; 
+U target: INTall = 18.388876A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №44;
+U podzhig: Peak U -> 1965.9; Time peak -> 157 ; Start pulse -> 111; End pulse -> 192; Time of front = 46 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.62845 [V]; Peak U -> 3.4876437; Time peak -> 321 ; Start pulse -> 221; End pulse -> 433; Pulse unstable in -> 226; INTreal = 0.0055154813A/c; INTsmooth = 0.013548483 A/c; 
+U target: INTall = 812.3288A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №45;
+U podzhig: Peak U -> 1965.9; Time peak -> 156 ; Start pulse -> 118; End pulse -> 190; Time of front = 38 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 5.15879 [V]; Peak U -> 4.636706; Time peak -> 318 ; Start pulse -> 206; End pulse -> 425; Pulse unstable in -> 267; INTreal = 0.0072153686A/c; INTsmooth = 0.017555373 A/c; 
+U target: INTall = 444.14145A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №46;
+U podzhig: Peak U -> 1877.51; Time peak -> 154 ; Start pulse -> 109; End pulse -> 190; Time of front = 45 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.89362 [V]; Peak U -> 4.360932; Time peak -> 342 ; Start pulse -> 208; End pulse -> 452; Pulse unstable in -> 284; INTreal = 0.006603991A/c; INTsmooth = 0.01704945 A/c; 
+U target: INTall = 275.58557A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №47;
+U podzhig: Peak U -> 1965.9; Time peak -> 154 ; Start pulse -> 93; End pulse -> 190; Time of front = 61 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.71684 [V]; Peak U -> 4.2324724; Time peak -> 346 ; Start pulse -> 209; End pulse -> 454; Pulse unstable in -> 281; INTreal = 0.0017465703A/c; INTsmooth = 0.01230806 A/c; 
+U target: INTall = 20.34609A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №48;
+U podzhig: Peak U -> 2054.29; Time peak -> 157 ; Start pulse -> 102; End pulse -> 318; Time of front = 55 ns
+I of charge: Type -> sinusoid; Peak's Over [1V] detected (type marker) ->4; Umax = 4.98201 [V]; Peak U -> 4.498817; Time peak -> 311 ; Start pulse -> 207; End pulse -> 417; Pulse stable; INTreal = 0.0070201675A/c; INTsmooth = 0.016931694 A/c; 
+U target: INTall = 536.6814A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №49;
+U podzhig: Peak U -> 1789.12; Time peak -> 155 ; Start pulse -> 111; End pulse -> 223; Time of front = 44 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.98201 [V]; Peak U -> 4.3420734; Time peak -> 318 ; Start pulse -> 216; End pulse -> 427; Pulse unstable in -> 287; INTreal = 0.001816427A/c; INTsmooth = 0.011777928 A/c; 
+U target: INTall = 33.651814A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №50;
+U podzhig: Peak U -> 2054.29; Time peak -> 157 ; Start pulse -> 88; End pulse -> 311; Time of front = 69 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 5.33557 [V]; Peak U -> 4.9336896; Time peak -> 300 ; Start pulse -> 214; End pulse -> 410; Pulse stable; INTreal = 0.0018733481A/c; INTsmooth = 0.012291009 A/c; 
+U target: INTall = 14.71122A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №51;
+U podzhig: Peak U -> 1877.51; Time peak -> 157 ; Start pulse -> 111; End pulse -> 191; Time of front = 46 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.98201 [V]; Peak U -> 4.5813127; Time peak -> 304 ; Start pulse -> 213; End pulse -> 417; Pulse stable; INTreal = 0.0018353312A/c; INTsmooth = 0.012123522 A/c; 
+U target: INTall = 32.531166A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №52;
+U podzhig: Peak U -> 1612.35; Time peak -> 150 ; Start pulse -> 104; End pulse -> 208; Time of front = 46 ns
+I of charge: Type -> two peak anomaly; Peak's Over [1V] detected (type marker) ->2; Umax = 4.98201 [V]; Peak U -> 4.472889; Time peak -> 312 ; Start pulse -> 209; End pulse -> 422; Pulse unstable in -> 285; INTreal = 0.0036069741A/c; INTsmooth = 0.012486266 A/c; 
+U target: INTall = 226.26108A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №53;
+U podzhig: Peak U -> 1700.74; Time peak -> 151 ; Start pulse -> 100; End pulse -> 320; Time of front = 51 ns
+I of charge: Type -> two peak anomaly; Peak's Over [1V] detected (type marker) ->2; Umax = 4.71684 [V]; Peak U -> 4.0285845; Time peak -> 345 ; Start pulse -> 210; End pulse -> 445; Pulse unstable in -> 278; INTreal = 0.0032437837A/c; INTsmooth = 0.011930317 A/c; 
+U target: INTall = 26.296406A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №54;
+U podzhig: Peak U -> 1877.51; Time peak -> 155 ; Start pulse -> 108; End pulse -> 217; Time of front = 47 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.71684 [V]; Peak U -> 4.1311173; Time peak -> 331 ; Start pulse -> 205; End pulse -> 439; Pulse unstable in -> 275; INTreal = 0.0017421794A/c; INTsmooth = 0.012054583 A/c; 
+U target: INTall = 12.627703A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №55;
+U podzhig: Peak U -> 1789.12; Time peak -> 152 ; Start pulse -> 109; End pulse -> 313; Time of front = 43 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.71684 [V]; Peak U -> 4.2678266; Time peak -> 317 ; Start pulse -> 214; End pulse -> 425; Pulse stable; INTreal = 0.0017754335A/c; INTsmooth = 0.011667559 A/c; 
+U target: INTall = 17.078775A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
+Imulse case №56;
+U podzhig: Peak U -> 1700.74; Time peak -> 151 ; Start pulse -> 106; End pulse -> 312; Time of front = 45 ns
+I of charge: Type -> unipolar; Peak's Over [1V] detected (type marker) ->1; Umax = 4.62845 [V]; Peak U -> 4.046263; Time peak -> 345 ; Start pulse -> 213; End pulse -> 447; Pulse unstable in -> 281; INTreal = 0.0017192629A/c; INTsmooth = 0.0116695035 A/c; 
+U target: INTall = 38.90733A/ms; Neutrons = 0.0[I_m * sig(U_uskor)];
